@@ -57,6 +57,7 @@ string chiffrement::chiffrer() {
         }
 
     }
+    return this->messageChiffre2;
 }
 
 string chiffrement::dechiffrer() {
@@ -98,6 +99,7 @@ string chiffrement::dechiffrer() {
         this->message = XOR.dechiffreXOR(this->messageChiffre2, this->cleXOR);
         cout<< this->message <<endl;
     }
+    return this->message;
 }
 void chiffrement::modifCleCesar(int x){
     this->cleCesar = x;

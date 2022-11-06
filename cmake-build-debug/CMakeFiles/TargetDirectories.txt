@@ -1,0 +1,3 @@
+/Users/leandrodebarrosbarbosa/Documents/GitHub/Prosit-2-POO/cmake-build-debug/CMakeFiles/Prosit_2_POO.dir
+/Users/leandrodebarrosbarbosa/Documents/GitHub/Prosit-2-POO/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/leandrodebarrosbarbosa/Documents/GitHub/Prosit-2-POO/cmake-build-debug/CMakeFiles/rebuild_cache.dir

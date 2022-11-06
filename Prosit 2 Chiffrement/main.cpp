@@ -37,8 +37,5 @@ int main() {
     chiffrement test("Pokemon");
     test.chiffrer();
     test.dechiffrer();
-
-
-
     return 0;
 }
